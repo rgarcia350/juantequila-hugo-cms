@@ -1,9 +1,9 @@
 ---
 title: Juan Tequila's Mexican Restaurant
 subtitle: Authentic flavors from south of the border...
-image: /img/home-jumbotron.jpg
+image: /img/food_spotlight_mexico_01-648x432.jpg
 blurb:
-  heading: Why Kaldi?
+  heading: Why choose Juan Tequila's?
   text: >-
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
