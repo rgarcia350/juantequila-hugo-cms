@@ -1,6 +1,6 @@
 ---
 title: Juan Tequila's Mexican Restaurant
-subtitle: Authentic flavors from south of the border
+subtitle: Authentic flavors from South of the Border
 image: /img/food_spotlight_mexico_01-648x432.jpg
 blurb:
   heading: Why choose Juan Tequila's?
